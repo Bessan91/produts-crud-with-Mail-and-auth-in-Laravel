@@ -18,7 +18,8 @@
     <img width="904" alt="image" src="https://github.com/Bessan91/produts-crud-with-Mail-and-auth-in-Laravel/assets/109364643/9e8d2bd8-2115-45fb-a2ee-0bc685f84ddb">
 </li> 
  <li>Send mail for editing product  <br>
-   ![image](https://github.com/Bessan91/produts-crud-with-Mail-and-auth-in-Laravel/assets/109364643/a9160362-2239-4ec3-96a1-be17330c42a7)
+     
+  <img width="219" alt="image" src="https://github.com/Bessan91/produts-crud-with-Mail-and-auth-in-Laravel/assets/109364643/1b2723a5-14a4-4a86-a117-2ae93a264943">
 
 </li> 
  <li>Show Product page   <br>
