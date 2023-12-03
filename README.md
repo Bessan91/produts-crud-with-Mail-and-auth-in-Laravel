@@ -7,12 +7,17 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 <h1>UI /UX FOR project   </h1>
+<ul>
 <li >main DataTable 
-    <ul>
+   <br>
         <img width="919" alt="image" src="https://github.com/Bessan91/produts-crud-with-Mail-and-auth-in-Laravel/assets/109364643/5fb11f86-150d-4c4a-aa47-6766587779cd">
 
   
 </li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>  
+
 <li>Edit page
     <img width="904" alt="image" src="https://github.com/Bessan91/produts-crud-with-Mail-and-auth-in-Laravel/assets/109364643/9e8d2bd8-2115-45fb-a2ee-0bc685f84ddb">
 </li> 
