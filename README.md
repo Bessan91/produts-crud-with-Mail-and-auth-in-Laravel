@@ -11,7 +11,7 @@
     <ul>
         <img width="919" alt="image" src="https://github.com/Bessan91/produts-crud-with-Mail-and-auth-in-Laravel/assets/109364643/5fb11f86-150d-4c4a-aa47-6766587779cd">
 
-    </ul>
+  
 </li>
 <li>Edit page
     <img width="904" alt="image" src="https://github.com/Bessan91/produts-crud-with-Mail-and-auth-in-Laravel/assets/109364643/9e8d2bd8-2115-45fb-a2ee-0bc685f84ddb">
