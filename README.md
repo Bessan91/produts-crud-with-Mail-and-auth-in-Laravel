@@ -14,21 +14,22 @@
 
   
 </li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>  
-
-<li>Edit page
+ <li>Edit page  <br>
     <img width="904" alt="image" src="https://github.com/Bessan91/produts-crud-with-Mail-and-auth-in-Laravel/assets/109364643/9e8d2bd8-2115-45fb-a2ee-0bc685f84ddb">
 </li> 
-<li>Show Product page 
+ <li>Show Product page   <br>
     <img width="658" alt="image" src="https://github.com/Bessan91/produts-crud-with-Mail-and-auth-in-Laravel/assets/109364643/4712635f-4de6-4706-b7a5-1ab441c375d5">
 
 </li>
-<li>Delete Button 
+<li>Delete Button   <br>
     <img width="905" alt="image" src="https://github.com/Bessan91/produts-crud-with-Mail-and-auth-in-Laravel/assets/109364643/0b36a325-4423-4197-985f-fd19586d63ce">
 
 </li>
+</ul>  
+
+
+
+
 
 
 ## About Laravel
