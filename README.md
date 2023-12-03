@@ -6,6 +6,25 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+<h1>UI /UX FOR project   </h1>
+<li >main DataTable 
+    <ul>
+        <img width="919" alt="image" src="https://github.com/Bessan91/produts-crud-with-Mail-and-auth-in-Laravel/assets/109364643/5fb11f86-150d-4c4a-aa47-6766587779cd">
+
+    </ul>
+</li>
+<li>Edit page
+    <img width="904" alt="image" src="https://github.com/Bessan91/produts-crud-with-Mail-and-auth-in-Laravel/assets/109364643/9e8d2bd8-2115-45fb-a2ee-0bc685f84ddb">
+</li> 
+<li>Show Product page 
+    <img width="658" alt="image" src="https://github.com/Bessan91/produts-crud-with-Mail-and-auth-in-Laravel/assets/109364643/4712635f-4de6-4706-b7a5-1ab441c375d5">
+
+</li>
+<li>Delete Button 
+    <img width="905" alt="image" src="https://github.com/Bessan91/produts-crud-with-Mail-and-auth-in-Laravel/assets/109364643/0b36a325-4423-4197-985f-fd19586d63ce">
+
+</li>
+
 
 ## About Laravel
 
